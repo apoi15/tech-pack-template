@@ -11,8 +11,12 @@ and adapt for commercial work.
 | File | Use it when |
 | --- | --- |
 | [hln-tech-pack-template.xlsx](hln-tech-pack-template.xlsx) | You want to fill it in on a computer (Excel, Google Sheets, Numbers, LibreOffice) |
-| [hln-tech-pack-template.pdf](hln-tech-pack-template.pdf) | You want to print it and fill it in by hand, or see the structure first |
+| [hln-tech-pack-template.pdf](hln-tech-pack-template.pdf) | You want a field guide plus a form you can type into in any PDF reader (Acrobat Reader, macOS Preview, a browser), or print and fill in by hand |
 | [hln-international-size-chart.pdf](hln-international-size-chart.pdf) | You need US / UK / EU / JP / CN / international size conversions (women and men) next to your measurement sheet |
+
+**Spanish and French versions:**
+[Excel (ES)](hln-tech-pack-template-es.xlsx) · [PDF (ES)](hln-tech-pack-template-es.pdf) ·
+[Excel (FR)](hln-tech-pack-template-fr.xlsx) · [PDF (FR)](hln-tech-pack-template-fr.pdf)
 
 The web version, with a worked explanation of every field, lives at
 **[hlnapparel.com/tools/tech-pack-template](https://www.hlnapparel.com/tools/tech-pack-template)**.
@@ -27,7 +31,7 @@ filled example so you can see the level of detail expected.
 | 1 | **Cover** | Style number, category, season, target quantity, version and date. The style number goes on every document after this. |
 | 2 | **Sketch** | Front and back views, numbered callouts, reference garments, point-of-measure lines. A marked-up photo is fine. |
 | 3 | **BOM** | Every material on its own line: body fabric, rib, trims, labels, packaging, with composition, weight, colour and consumption per piece. |
-| 4 | **Measurements** | One row per point of measure, one column per size, a tolerance and a unit. Bulk goods are inspected against this sheet. |
+| 4 | **Measurements** | Pick a garment type (hoodie, T-shirt/polo, jacket, pants, shorts, leggings, cap, socks) and its points of measure, measuring method and a starting tolerance load in; overwrite any cell. One column per size, plus a unit. Bulk goods are inspected against this sheet. |
 | 5 | **Construction** | Stitch type and density, seam finish, thread, print and embroidery position and size, hardware, topstitching. |
 | 6 | **Labels & packaging** | Main label, care label, hang tag, fold and polybag, barcodes, carton packing. |
 | 7 | **Colorways** | Colour names, a physical colour reference, quantity per colour and the size breakdown. |
